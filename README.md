@@ -33,7 +33,3 @@ perspectiva del Desarrollo de Aplicaciones Web (DAW).
 A continuación se muestra el wireframe de nuestra aplicación:
 ![Prototipo de la Interfaz Web](Filtros.png)
 **Breve explicación:** En la captura podemos ver 2 barras, una de busqueda por texto, y otra por filtros. A su vez, vemos los comandos mas utilizados. Al pinchar en ellos, nos saldrá su descripcion, y al clickear el icono de su derecha, se nos copiara el comando en el portapapeles
-# Proyecto Web: 1º Daw CheatSheet - ODS 4
-Este proyecto es una propuesta tecnológica para mejorar la calidad educativa (ODS 4) desde la
-perspectiva del Desarrollo de Aplicaciones Web (DAW).
-
